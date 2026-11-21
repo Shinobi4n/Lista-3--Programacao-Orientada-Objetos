@@ -14,6 +14,3 @@ public class FormaGeometricaMain {
     }
 
 }
-
-// ADICIONAR MAIN NO COMMIT AAAAAAAAAAAAAAAAAAAA
-// não quer funcionar o commiiiiiit
