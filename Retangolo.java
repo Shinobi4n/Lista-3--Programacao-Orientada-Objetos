@@ -1,9 +1,9 @@
-public class Retangulo extends FormaGeometrica {
+public class Retangolo extends FormaGeometrica {
 
     private double largura;
     private double altura;
 
-    public Retangulo(double largura, double altura) {
+    public Retangolo(double largura, double altura) {
         this.largura = largura;
         this.altura = altura;
     }
